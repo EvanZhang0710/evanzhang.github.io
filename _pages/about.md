@@ -14,8 +14,9 @@ redirect_from:
 
 # Projects
 
-## Auto-Riggable Gaussian Characters (WIP)
+
 ![Illustration of what GRIG does](images\grig1.gif){: .align-left width="300px"}
+## Auto-Riggable Gaussian Characters
 **Credits**: Evan Zhang, Sean Brynjólfsson, Justin Tien-Smith
 **Description**: Recently, techniques for solving gaussian splats of dynamic scenes ([*Dynamic3DGaussians*](https://github.com/JonathonLuiten/Dynamic3DGaussians), 2024) have found success in using local rigidity constraints to enforce spatial and temporal consistency.
 
