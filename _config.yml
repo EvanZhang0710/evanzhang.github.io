@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yiwen (Evan) Zhang / Personal Website"
+title                    : "Evan's Homepage"
 title_separator          : "-"
 name                     : &name "Yiwen (Evan) Zhang"
 description              : &description "CS @ Cornell"
