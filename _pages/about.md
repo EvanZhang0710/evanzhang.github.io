@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: 
 title: "👋Hello there, I'm Evan!"
 author_profile: true
 redirect_from: 
