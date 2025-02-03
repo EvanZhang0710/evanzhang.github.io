@@ -13,7 +13,7 @@ title                    : "Evan's Homepage"
 title_separator          : "-"
 name                     : &name "Yiwen (Evan) Zhang"
 description              : &description "CS @ Cornell"
-url                      : https://evanzhang0710.github.io/evanzhang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://evanzhang0710.github.io/evanzhang.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "avatar_new.png"
   name             : "Yiwen (Evan) Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Hi! I'm Evan, a CS student @ Cornell University. Welcome to my personal website, which demonstrates my research, projects, and teaching experiences in computer vision/graphics."
+  bio              : "Computer Vision and Graphics"
   location         : "Ithaca, New York"
   employer         : "Cornell University"
   uri              : # URL
