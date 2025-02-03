@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.png"
   name             : "Yiwen (Evan) Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hi! I'm Evan, a CS student @ Cornell University. Welcome to my personal website, which demonstrates my research, projects, and teaching experiences in computer vision/graphics."
   location         : "Ithaca, New York"
   employer         : "Cornell University"
   uri              : # URL
