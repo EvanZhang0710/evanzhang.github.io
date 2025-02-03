@@ -20,16 +20,16 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  avatar           : "avatar_new.png"
-  name             : "Yiwen (Evan) Zhang"
-  pronouns         : # example: "she/her"  
-  bio              : "Computer Vision and Graphics"
-  location         : "Ithaca, New York"
-  employer         : "Cornell University"
-  uri              : # URL
-  email            : "yz864@cornell.edu" 
+# author:
+#   # Biographic information
+#   avatar           : "avatar_new.png"
+#   name             : "Yiwen (Evan) Zhang"
+#   pronouns         : # example: "she/her"  
+#   bio              : "Computer Vision and Graphics"
+#   location         : "Ithaca, New York"
+#   employer         : "Cornell University"
+#   uri              : # URL
+#   email            : "yz864@cornell.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
