@@ -17,7 +17,7 @@ redirect_from:
   <p>🔬 My undergraduate research interests are in computer vision and graphics. I'm also a member of Cornell University Artificial Intelligence 
     (<a href="https://cuai.github.io/" style="color: #007acc; text-decoration: none; font-weight: bold;">CUAI</a>).
   </p>
-  <p>🎾 I'm also a big gym guy, an eight ball player, and a badminton enthusiast.</p>
+  <p>🎾 I'm a big gym guy, an eight ball player, and a badminton enthusiast.</p>
 </div>
 
 <!-- Projects Section -->
