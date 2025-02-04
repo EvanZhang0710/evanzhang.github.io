@@ -13,4 +13,5 @@ redirect_from:
 
 🎾 I'm also a big gym guy, a eight ball player, and a badminton enthusiast.
 
+# Projects #
 {% include portfolio.html %}
