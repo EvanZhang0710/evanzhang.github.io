@@ -51,3 +51,22 @@ redirect_from:
     <a href="/projects/gaussian_seg.html" style="color: #007acc; text-decoration: none; font-weight: bold;">[Detail]</a>
   </div>
 </div>
+
+<!-- Projects -->
+<div class="project-teaser" style="display: flex; align-items: center; margin: 20px 0;">
+  <!-- Left Column: Teaser Image -->
+  <div class="teaser-image" style="flex: 0 0 200px;">
+    <img src="/images/up.png" alt="Gaussian_seg Teaser" style="width: 100%; border: 1px solid #ccc;">
+  </div>
+
+  <!-- Right Column: Short Description and Links -->
+  <div class="teaser-description" style="flex: 1; padding-left: 20px;">
+    <h3 style="margin-top: 0;">Apple Is All You Need</h3>
+    <p style="margin: 10px 0;">
+      This project implements a raytracer that renders a fun scene that only contains apples. Various graphics techniques are used including constructive solid geometry, fresnel refraction, defocus blur, etc.
+    </p>
+    <!-- Links displayed side by side -->
+    <a href="files/apple.pdf" target="_blank" rel="noopener noreferrer" style="color: #007acc; text-decoration: none; font-weight: bold; margin-right: 15px;">[Project Paper]</a>
+    <!-- <a href="/projects/gaussian_seg.html" style="color: #007acc; text-decoration: none; font-weight: bold;">[Detail]</a> -->
+  </div>
+</div>
