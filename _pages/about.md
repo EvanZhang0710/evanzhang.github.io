@@ -56,6 +56,25 @@ redirect_from:
 <div class="project-teaser" style="display: flex; align-items: center; margin: 20px 0;">
   <!-- Left Column: Teaser Image -->
   <div class="teaser-image" style="flex: 0 0 200px;">
+    <img src="/images/TheOne .png" alt="Gaussian_seg Teaser" style="width: 100%; border: 1px solid #ccc;">
+  </div>
+
+  <!-- Right Column: Short Description and Links -->
+  <div class="teaser-description" style="flex: 1; padding-left: 20px;">
+    <h3 style="margin-top: 0;">Zelda: Catch the Koroks</h3>
+    <p style="margin: 10px 0;">
+      This project uses rasterization to render a mini game that is inspired by Zelda. Customized shaders are created to simulate grass, trees, terrain, etc. 
+    </p>
+    <!-- Links displayed side by side -->
+    <a href="files/Zelda.pdf" target="_blank" rel="noopener noreferrer" style="color: #007acc; text-decoration: none; font-weight: bold; margin-right: 15px;">[Project Paper]</a>
+    <a href="https://youtu.be/AhoNw9ofmpk" style="color: #007acc; text-decoration: none; font-weight: bold;">[Project Video]</a>
+  </div>
+</div>
+
+<!-- Projects -->
+<div class="project-teaser" style="display: flex; align-items: center; margin: 20px 0;">
+  <!-- Left Column: Teaser Image -->
+  <div class="teaser-image" style="flex: 0 0 200px;">
     <img src="/images/up.png" alt="Gaussian_seg Teaser" style="width: 100%; border: 1px solid #ccc;">
   </div>
 
