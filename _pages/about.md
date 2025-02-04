@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-🏫 I'm currently an undergraduate student at [Cornell CS](https://www.cs.cornell.edu/).
-
-🔬 My undergraduate research interests are in computer vision and graphics. I'm also a member of Cornell University Artificial Intelligence ([CUAI](https://cuai.github.io/)).
-
-🎾 I'm also a big gym guy, a eight ball player, and a badminton enthusiast.
+<div class="about-section" style="margin: 20px 0; font-size: 1.2em; line-height: 1.6;">
+  <p>🏫 I'm currently an undergraduate student at <a href="https://www.cs.cornell.edu/" style="color: #007acc; text-decoration: none; font-weight: bold;">Cornell CS</a>.</p>
+  <p>🔬 My undergraduate research interests are in computer vision and graphics. I'm also a member of Cornell University Artificial Intelligence (<a href="https://cuai.github.io/" style="color: #007acc; text-decoration: none; font-weight: bold;">CUAI</a>).</p>
+  <p>🎾 I'm also a big gym guy, an eight ball player, and a badminton enthusiast.</p>
+</div>
 
 <!-- Projects Section -->
 <div class="projects-section">
