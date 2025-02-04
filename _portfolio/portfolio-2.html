@@ -34,22 +34,26 @@
       font-style: italic;
       color: #666;
     }
-    /* Flex container for images */
-    .project-images {
+    /* Two-column container for images and description */
+    .project-content {
       display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      justify-content: center;
-      margin-bottom: 20px;
+      gap: 20px;
     }
-    /* Styling for the images */
+    /* Left column: image gallery */
+    .project-images {
+      flex: 0 0 300px; /* Fixed width for the image column */
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
     .project-images img {
-      max-width: 100%;
+      width: 100%;
       height: auto;
       border: 1px solid #ccc;
     }
-    /* Section for detailed project description */
+    /* Right column: description */
     .project-description {
+      flex: 1;
       line-height: 1.6;
     }
     .project-description a {
@@ -63,32 +67,35 @@
 </head>
 <body>
   <div class="project-container">
-    <!-- Header Section: Project Title and Credits -->
+    <!-- Header: Title and Credits -->
     <header class="project-header">
       <h1>Auto-Riggable Gaussian Characters</h1>
       <p><strong>Credits:</strong> Evan Zhang, Sean Brynjólfsson, Justin Tien-Smith</p>
     </header>
 
-    <!-- Image Gallery Section: Display GRIG GIFs -->
-    <section class="project-images">
-      <img src="/images/grig1.gif" alt="GRIG1 Animation">
-      <img src="/images/grig2.gif" alt="GRIG2 Animation">
-      <img src="/images/grig3.gif" alt="GRIG3 Animation">
-    </section>
+    <!-- Two-Column Layout -->
+    <div class="project-content">
+      <!-- Left Column: Image Gallery -->
+      <section class="project-images">
+        <img src="/images/grig1.gif" alt="GRIG1 Animation">
+        <img src="/images/grig2.gif" alt="GRIG2 Animation">
+        <img src="/images/grig3.gif" alt="GRIG3 Animation">
+      </section>
 
-    <!-- Detailed Description Section -->
-    <section class="project-description">
-      <p>
-        Recently, techniques for solving gaussian splats of dynamic scenes 
-        (<a href="https://github.com/JonathonLuiten/Dynamic3DGaussians" target="_blank"><em>Dynamic3DGaussians</em></a>, 2024) have found success in using local rigidity constraints to enforce spatial and temporal consistency.
-      </p>
-      <p>
-        We use this detailed representation and decompose it into the rigid parts and joints which describe their movement. This procedure makes no assumptions about the anatomy of the dynamic entities within the scene and therefore should work equally well for all people, animals, or machines—anything that moves about a discrete set of joints. We're currently implementing the joint solver after obtaining promising results for our clustering algorithm to find the bones.
-      </p>
-      <p>
-        Our final deliverable will be an animation-ready gaussian rig and a portable format for it. Clustering also significantly downsizes the storage requirements because local rigidity means gaussians are predictive of their neighbors—no need to track all of them. We are also developing more visualizations to better understand the limitations of the representation. In doing so, we have observed some new failure modes of the original method, such as how some regions gradually creep into neighboring areas over time.
-      </p>
-    </section>
+      <!-- Right Column: Detailed Description -->
+      <section class="project-description">
+        <p>
+          Recently, techniques for solving gaussian splats of dynamic scenes 
+          (<a href="https://github.com/JonathonLuiten/Dynamic3DGaussians" target="_blank"><em>Dynamic3DGaussians</em></a>, 2024) have found success in using local rigidity constraints to enforce spatial and temporal consistency.
+        </p>
+        <p>
+          We use this detailed representation and decompose it into the rigid parts and joints which describe their movement. This procedure makes no assumptions about the anatomy of the dynamic entities within the scene and therefore should work equally well for all people, animals, or machines—anything that moves about a discrete set of joints. We're currently implementing the joint solver after obtaining promising results for our clustering algorithm to find the bones.
+        </p>
+        <p>
+          Our final deliverable will be an animation-ready gaussian rig and a portable format for it. Clustering also significantly downsizes the storage requirements because local rigidity means gaussians are predictive of their neighbors—no need to track all of them. We are also developing more visualizations to better understand the limitations of the representation. In doing so, we have observed some new failure modes of the original method, such as how some regions gradually creep into neighboring areas over time.
+        </p>
+      </section>
+    </div>
   </div>
 </body>
 </html>

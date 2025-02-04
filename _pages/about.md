@@ -23,7 +23,7 @@ redirect_from:
 
   <!-- Right Column: Short Description and Read More Link -->
   <div class="teaser-description" style="flex: 1; padding-left: 20px;">
-    <h3 style="margin-top: 0;">Auto-Riggable Gaussian Characters</h3>
+    <h3 style="margin-top: 0;">Auto-Riggable Gaussian Characters (WIP)</h3>
     <p style="margin: 10px 0;">
       Leveraging dynamic gaussian splats with local rigidity constraints, this project decomposes moving subjects into animation-ready rigs.
     </p>
