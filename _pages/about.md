@@ -89,3 +89,9 @@ redirect_from:
     <!-- <a href="/projects/gaussian_seg.html" style="color: #007acc; text-decoration: none; font-weight: bold;">[Detail]</a> -->
   </div>
 </div>
+
+# 🎓 Teaching Experiences #
+2025: Head TA for CS 4782: Deep Learning | Spring 2025
+2024: TA for CS 4620: Introduction to Computer Graphics | Fall 2024
+2024: TA for CS 4780: Introduction to Machine Learning | Spring 2024 (Teaching Excellence Award)
+2023: TA for CS 2110: Object-Oriented Programming and Data Structures | Spring 2023
