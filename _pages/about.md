@@ -37,7 +37,7 @@ redirect_from:
 <div class="project-teaser" style="display: flex; align-items: center; margin: 20px 0;">
   <!-- Left Column: Teaser Image -->
   <div class="teaser-image" style="flex: 0 0 200px;">
-    <img src="/images/gaussian_seg.png" alt="Gaussian_seg Teaser" style="width: 100%; border: 1px solid #ccc;">
+    <img src="/images/clickbait.png" alt="Gaussian_seg Teaser" style="width: 100%; border: 1px solid #ccc;">
   </div>
 
   <!-- Right Column: Short Description and Links -->
