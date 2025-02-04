@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-hide_title: true
 ---
 
 <!-- Page Title Styled Consistently with Other Headers -->
