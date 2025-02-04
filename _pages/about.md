@@ -58,7 +58,7 @@ redirect_from:
   <div class="project-teaser" style="display: flex; align-items: center; margin: 20px 0;">
     <!-- Left Column: Teaser Image -->
     <div class="teaser-image" style="flex: 0 0 200px;">
-      <img src="/images/TheOne.png" alt="Gaussian_seg Teaser" style="width: 100%; border: 1px solid #ccc;">
+      <img src="/images/TheOne .png" alt="Gaussian_seg Teaser" style="width: 100%; border: 1px solid #ccc;">
     </div>
     <!-- Right Column: Short Description and Links -->
     <div class="teaser-description" style="flex: 1; padding-left: 20px;">
@@ -92,28 +92,6 @@ redirect_from:
 </div>
 
 <!-- Teaching Experiences Section -->
-<div class="teaching-experiences" style="margin: 40px 0;">
-  <!-- Section Heading -->
-  <h2 style="font-size: 2em; margin-bottom: 20px;">🎓 Teaching Experiences</h2>
-  
-  <!-- List of Experiences -->
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="margin-bottom: 10px;">
-      <strong>2025:</strong> TA for CS 4670: Introduction to Computer Vision | Spring 2025
-    </li>
-    <li style="margin-bottom: 10px;">
-      <strong>2024:</strong> TA for CS 4820: Introduction to Analysis of Algorithms | Fall 2024
-    </li>
-    <li style="margin-bottom: 10px;">
-      <strong>2024:</strong> TA for CS 1112: Introduction to Computing: An Engineering and Science Perspective | Spring 2024
-    </li>
-    <li style="margin-bottom: 10px;">
-      <strong>2023:</strong> TA for CS 1112: Introduction to Computing: An Engineering and Science Perspective | Fall 2023
-    </li>
-  </ul>
-</div>
-
-<!-- Teaching Experiences -->
 <div class="teaching-experiences" style="margin: 40px 0;">
   <!-- Section Heading -->
   <h2 style="font-size: 2em; margin-bottom: 20px;">🎓 Teaching Experiences</h2>
