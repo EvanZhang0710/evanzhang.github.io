@@ -13,7 +13,7 @@ redirect_from:
 
 🎾 I'm also a big gym guy, a eight ball player, and a badminton enthusiast.
 
-# Projects #
+# 💻 Projects #
 <!-- Projects -->
 <div class="project-teaser" style="display: flex; align-items: center; margin: 20px 0;">
   <!-- Left Column: Teaser Image -->
