@@ -94,8 +94,6 @@ redirect_from:
 
 <!-- Teaching Experiences -->
 <div class="teaching-experiences" style="margin: 40px 0;">
-  <!-- Section Heading -->
-  <h1 style="font-size: 2em; margin-bottom: 20px;">🎓 Teaching Experiences</h1>
   
   <!-- List of Experiences -->
   <ul style="list-style-type: none; padding: 0;">
