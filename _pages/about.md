@@ -90,10 +90,10 @@ redirect_from:
   </div>
 </div>
 
-# 🎓 Teaching Experiences #
-
 <!-- Teaching Experiences -->
 <div class="teaching-experiences" style="margin: 40px 0;">
+  <!-- Section Heading -->
+  <h2 style="font-size: 2em; margin-bottom: 20px;">🎓 Teaching Experiences</h2>
   
   <!-- List of Experiences -->
   <ul style="list-style-type: none; padding: 0;">
