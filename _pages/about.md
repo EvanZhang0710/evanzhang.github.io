@@ -27,12 +27,8 @@ redirect_from:
     <p style="margin: 10px 0;">
       Leveraging dynamic gaussian splats with local rigidity constraints, this project decomposes moving subjects into animation-ready rigs.
     </p>
-    <a href="/projects/grig.html" style="color: #007acc; text-decoration: none; font-weight: bold;">
-      Read More &rarr;
-    </a>
-    <br>
-    <a href="https://github.com/jolfss/grig" target="_blank" rel="noopener noreferrer" style="color: #007acc; text-decoration: none; font-weight: bold;">
-      View on GitHub &rarr;
-    </a>
+    <!-- Links displayed side by side -->
+    <a href="https://github.com/jolfss/grig" target="_blank" rel="noopener noreferrer" style="color: #007acc; text-decoration: none; font-weight: bold; margin-right: 15px;">GitHub</a>
+    <a href="/projects/grig.html" style="color: #007acc; text-decoration: none; font-weight: bold;">Detail</a>
   </div>
 </div>
