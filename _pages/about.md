@@ -91,7 +91,25 @@ redirect_from:
 </div>
 
 # 🎓 Teaching Experiences #
-2025: Head TA for CS 4782: Deep Learning | Spring 2025
-2024: TA for CS 4620: Introduction to Computer Graphics | Fall 2024
-2024: TA for CS 4780: Introduction to Machine Learning | Spring 2024 (Teaching Excellence Award)
-2023: TA for CS 2110: Object-Oriented Programming and Data Structures | Spring 2023
+
+<!-- Teaching Experiences -->
+<div class="teaching-experiences" style="margin: 40px 0;">
+  <!-- Section Heading -->
+  <h1 style="font-size: 2em; margin-bottom: 20px;">🎓 Teaching Experiences</h1>
+  
+  <!-- List of Experiences -->
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="margin-bottom: 10px;">
+      <strong>2025:</strong> TA for CS 4670: Introduction to Computer Vision | Spring 2025
+    </li>
+    <li style="margin-bottom: 10px;">
+      <strong>2024:</strong> TA for CS 4820: Introduction to Analysis of Algorithms | Fall 2024
+    </li>
+    <li style="margin-bottom: 10px;">
+      <strong>2024:</strong> TA for CS 1112: Introduction to Computing: An Engineering and Science Perspective | Spring 2024
+    </li>
+    <li style="margin-bottom: 10px;">
+      <strong>2023:</strong> TA for CS 1112: Introduction to Computing: An Engineering and Science Perspective | Fall 2023
+    </li>
+  </ul>
+</div>
