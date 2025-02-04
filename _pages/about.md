@@ -7,9 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-<div class="about-section" style="margin: 20px 0; font-size: 1.2em; line-height: 1.6;">
-  <p>🏫 I'm currently an undergraduate student at <a href="https://www.cs.cornell.edu/" style="color: #007acc; text-decoration: none; font-weight: bold;">Cornell CS</a>.</p>
-  <p>🔬 My undergraduate research interests are in computer vision and graphics. I'm also a member of Cornell University Artificial Intelligence (<a href="https://cuai.github.io/" style="color: #007acc; text-decoration: none; font-weight: bold;">CUAI</a>).</p>
+<!-- Page Title Styled Consistently with Other Headers -->
+<h2 style="font-size: 2em; margin-bottom: 20px;">👋Hello there, I'm Evan!</h2>
+
+<div class="about-section" style="margin: 20px 0; font-size: 1.2em; line-height: 1.4;">
+  <p>🏫 I'm currently an undergraduate student at 
+    <a href="https://www.cs.cornell.edu/" style="color: #007acc; text-decoration: none; font-weight: bold;">Cornell CS</a>.
+  </p>
+  <p>🔬 My undergraduate research interests are in computer vision and graphics. I'm also a member of Cornell University Artificial Intelligence 
+    (<a href="https://cuai.github.io/" style="color: #007acc; text-decoration: none; font-weight: bold;">CUAI</a>).
+  </p>
   <p>🎾 I'm also a big gym guy, an eight ball player, and a badminton enthusiast.</p>
 </div>
 
