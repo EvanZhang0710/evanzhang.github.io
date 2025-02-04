@@ -28,7 +28,26 @@ redirect_from:
       Leveraging dynamic gaussian splats with local rigidity constraints, this project decomposes moving subjects into animation-ready rigs.
     </p>
     <!-- Links displayed side by side -->
-    <a href="https://github.com/jolfss/grig" target="_blank" rel="noopener noreferrer" style="color: #007acc; text-decoration: none; font-weight: bold; margin-right: 15px;">GitHub</a>
-    <a href="/projects/grig.html" style="color: #007acc; text-decoration: none; font-weight: bold;">Detail</a>
+    <a href="https://github.com/jolfss/grig" target="_blank" rel="noopener noreferrer" style="color: #007acc; text-decoration: none; font-weight: bold; margin-right: 15px;">[GitHub]</a>
+    <a href="/projects/grig.html" style="color: #007acc; text-decoration: none; font-weight: bold;">[Detail]</a>
+  </div>
+</div>
+
+<!-- Projects -->
+<div class="project-teaser" style="display: flex; align-items: center; margin: 20px 0;">
+  <!-- Left Column: Teaser Image -->
+  <div class="teaser-image" style="flex: 0 0 200px;">
+    <img src="/images/gaussian_seg.png" alt="Gaussian_seg Teaser" style="width: 100%; border: 1px solid #ccc;">
+  </div>
+
+  <!-- Right Column: Short Description and Links -->
+  <div class="teaser-description" style="flex: 1; padding-left: 20px;">
+    <h3 style="margin-top: 0;">Compositional Splatting for Construction Sites</h3>
+    <p style="margin: 10px 0;">
+      Leveraging gaussian splatting for digital twin capture on construction sites, this project aims to simulate realistic construction environments and record the construction process.
+    </p>
+    <!-- Links displayed side by side -->
+    <a href="files/SplatConstruction.pdf" target="_blank" rel="noopener noreferrer" style="color: #007acc; text-decoration: none; font-weight: bold; margin-right: 15px;">[Project Paper]</a>
+    <a href="/projects/gaussian_seg.html" style="color: #007acc; text-decoration: none; font-weight: bold;">[Detail]</a>
   </div>
 </div>
