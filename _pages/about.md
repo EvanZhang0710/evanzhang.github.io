@@ -90,7 +90,7 @@ redirect_from:
         Ethan Lin,
         Justin Tien-Smith
       </p>
-      <p style="margin: 10px 0;">
+      <p style="margin: 5px 0;">
         This project uses rasterization to render a mini game that is inspired by Zelda. Customized shaders are created to simulate grass, trees, terrain, etc.
       </p>
       <!-- Links displayed side by side -->
@@ -112,7 +112,7 @@ redirect_from:
         <strong>Credit:</strong> Evan Zhang,
         Taylor Wang
       </p>
-      <p style="margin: 10px 0;">
+      <p style="margin: 5px 0;">
         This project implements a raytracer that renders a fun scene that only contains apples. Various graphics techniques are used including constructive solid geometry, fresnel refraction, defocus blur, etc.
       </p>
       <!-- Links displayed side by side -->
