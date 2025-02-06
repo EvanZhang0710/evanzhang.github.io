@@ -12,7 +12,7 @@ redirect_from:
 
 <div class="about-section" style="margin: 20px 0; font-size: 1.2em; line-height: 1.4;">
   <p>🏫 I'm currently an undergraduate student at 
-    <a href="https://www.cs.cornell.edu/" style="color: #007acc; text-decoration: none; font-weight: bold;">Cornell CS</a> where I have the pleasure to be advised by<a href="https://abedavis.com/" style="color: #007acc; text-decoration: none; font-weight: bold;">Abe Davis</a>.
+    <a href="https://www.cs.cornell.edu/" style="color: #007acc; text-decoration: none; font-weight: bold;">Cornell CS</a> where I've had the pleasure to be advised by<a href="https://abedavis.com/" style="color: #007acc; text-decoration: none; font-weight: bold;"> Abe Davis</a>.
   </p>
   <p>🔬 I am primarily interested in computer vision and graphics. Currently my focus is in 3D time-lapse on mobile platforms. I'm also a member of Cornell University Artificial Intelligence 
     (<a href="https://cuai.github.io/" style="color: #007acc; text-decoration: none; font-weight: bold;">CUAI</a>).
