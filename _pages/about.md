@@ -38,7 +38,7 @@ redirect_from:
       <!-- Credit line: only the label "Credit:" is bolded -->
       <p class="credit" style="margin: 5px 0; font-size: 0.9em; color: #666;">
         <strong>Credit:</strong> Evan Zhang,
-        <a href="https://jolfss.github.io/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">Sean Brynjólfsson</a>,
+        <a href="https://jolfss.github.io/" target="_blank" rel="noopener noreferrer" style="color: blue; text-decoration: underline;">Sean Brynjólfsson</a>,
         Justin Tien-Smith
       </p>
       <!-- Description -->
