@@ -154,16 +154,16 @@ redirect_from:
   <!-- List of Experiences -->
   <ul style="list-style-type: none; padding: 0;">
     <li style="margin-bottom: 10px;">
-      <strong>2025:</strong> TA for CS 4670: Introduction to Computer Vision | Spring 2025
+      <strong>2025 Spring:</strong> TA for CS 4670: Introduction to Computer Vision
     </li>
     <li style="margin-bottom: 10px;">
-      <strong>2024:</strong> TA for CS 4820: Introduction to Analysis of Algorithms | Fall 2024
+      <strong>2024 Fall:</strong> TA for CS 4820: Introduction to Analysis of Algorithms
     </li>
     <li style="margin-bottom: 10px;">
-      <strong>2024:</strong> Consultant for CS 1112: Introduction to Computing: An Engineering and Science Perspective | Spring 2024
+      <strong>2024 Spring:</strong> Consultant for CS 1112: Introduction to Computing: An Engineering and Science Perspective
     </li>
     <li style="margin-bottom: 10px;">
-      <strong>2023:</strong> Consultant for CS 1112: Introduction to Computing: An Engineering and Science Perspective | Fall 2023
+      <strong>2023 Fall:</strong> Consultant for CS 1112: Introduction to Computing: An Engineering and Science Perspective | Fall 2023
     </li>
   </ul>
 </div>
