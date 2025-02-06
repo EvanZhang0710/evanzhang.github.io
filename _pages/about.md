@@ -24,6 +24,32 @@ redirect_from:
 <div id="projects" class="projects-section">
   <!-- Section Heading: Using similar style as Teaching Experiences -->
   <h2 style="font-size: 2em; margin-bottom: 20px;">💻 Projects</h2>
+
+  <!-- Project 1 -->
+  <div class="project-teaser" style="display: flex; align-items: flex-start; margin: 20px 0;">
+    <!-- Left Column: Teaser Image -->
+    <div class="teaser-image" style="flex: 0 0 200px;">
+      <img src="/images/ARSplat.gif" alt="GRIG Teaser" style="width: 100%; border: 1px solid #ccc;">
+    </div>
+    <!-- Right Column: Short Description and Links -->
+    <div class="teaser-description" style="flex: 1; padding-left: 20px;">
+      <!-- Title -->
+      <h3 style="margin-top: 0;">Mobile AR for Time-Lapse Tour</h3>
+      <!-- Credit line: only the label "Credit:" is bolded -->
+      <p class="credit" style="margin: 5px 0; font-size: 0.9em; color: #666;">
+        <strong>Credit:</strong> Evan Zhang,
+        <a href="https://www.trannhan.com/" target="_blank" rel="noopener noreferrer" style="color: blue; text-decoration: underline;">Nhan Tran</a>,
+        <a href="https://abedavis.com/" target="_blank" rel="noopener noreferrer" style="color: blue; text-decoration: underline;">Abe Davis</a>
+      </p>
+      <!-- Description -->
+      <p style="margin: 5px 0;">
+        Leveraging iPhone's LiDAR camera, this project builds an App that captures and aligns multiple scenes of a changing environment, then visualizes the time-lapse.
+      </p>
+      <!-- Links displayed side by side -->
+      <!-- <a href="https://github.com/jolfss/grig" target="_blank" rel="noopener noreferrer" style="color: #007acc; text-decoration: none; font-weight: bold; margin-right: 15px;">[GitHub]</a>
+      <a href="/projects/grig.html" style="color: #007acc; text-decoration: none; font-weight: bold;">[Detail]</a> -->
+    </div>
+  </div>
   
   <!-- Project 1 -->
   <div class="project-teaser" style="display: flex; align-items: flex-start; margin: 20px 0;">
