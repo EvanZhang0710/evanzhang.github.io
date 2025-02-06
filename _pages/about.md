@@ -36,18 +36,18 @@ redirect_from:
       <!-- Title -->
       <h3 style="margin-top: 0;">Mobile AR for Time-Lapse Tour</h3>
       <!-- Credit line: only the label "Credit:" is bolded -->
-      <p class="credit" style="margin: 5px 0; font-size: 0.9em; color: #666;">
+      <!-- <p class="credit" style="margin: 5px 0; font-size: 0.9em; color: #666;">
         <strong>Credit:</strong> Evan Zhang,
         <a href="https://www.trannhan.com/" target="_blank" rel="noopener noreferrer" style="color: blue; text-decoration: underline;">Nhan Tran</a>,
         <a href="https://abedavis.com/" target="_blank" rel="noopener noreferrer" style="color: blue; text-decoration: underline;">Abe Davis</a>
-      </p>
+      </p> -->
       <!-- Description -->
       <p style="margin: 5px 0;">
         Leveraging iPhone's LiDAR camera, this project builds an App that captures and aligns multiple scenes of a changing environment, then visualizes the time-lapse.
       </p>
       <!-- Links displayed side by side -->
-      <!-- <a href="https://github.com/jolfss/grig" target="_blank" rel="noopener noreferrer" style="color: #007acc; text-decoration: none; font-weight: bold; margin-right: 15px;">[GitHub]</a>
-      <a href="/projects/grig.html" style="color: #007acc; text-decoration: none; font-weight: bold;">[Detail]</a> -->
+      <a href="https://github.com/megatran/ARSplat/tree/evan/ARSplat" target="_blank" rel="noopener noreferrer" style="color: #007acc; text-decoration: none; font-weight: bold; margin-right: 15px;">[GitHub]</a>
+      <!-- <a href="/projects/grig.html" style="color: #007acc; text-decoration: none; font-weight: bold;">[Detail]</a> -->
     </div>
   </div>
   
@@ -62,11 +62,11 @@ redirect_from:
       <!-- Title -->
       <h3 style="margin-top: 0;">Auto-Riggable Gaussian Characters (WIP)</h3>
       <!-- Credit line: only the label "Credit:" is bolded -->
-      <p class="credit" style="margin: 5px 0; font-size: 0.9em; color: #666;">
+      <!-- <p class="credit" style="margin: 5px 0; font-size: 0.9em; color: #666;">
         <strong>Credit:</strong> Evan Zhang,
         <a href="https://jolfss.github.io/" target="_blank" rel="noopener noreferrer" style="color: blue; text-decoration: underline;">Sean Brynjólfsson</a>,
         Justin Tien-Smith
-      </p>
+      </p> -->
       <!-- Description -->
       <p style="margin: 5px 0;">
         Leveraging dynamic gaussian splats with local rigidity constraints, this project decomposes moving subjects into animation-ready rigs.
@@ -86,13 +86,13 @@ redirect_from:
     <!-- Right Column: Short Description and Links -->
     <div class="teaser-description" style="flex: 1; padding-left: 20px;">
       <h3 style="margin-top: 0;">Compositional Splatting for Construction Sites</h3>
-      <p class="credit" style="margin: 5px 0; font-size: 0.9em; color: #666;">
+      <!-- <p class="credit" style="margin: 5px 0; font-size: 0.9em; color: #666;">
         <strong>Credit:</strong> Evan Zhang,
         <a href="https://jolfss.github.io/" target="_blank" rel="noopener noreferrer" style="color: blue; text-decoration: underline;">Sean Brynjólfsson</a>,
         Dyllan Hofflich,
         Natalie Leung,
         Danish Qureshi
-      </p>
+      </p> -->
       <p style="margin: 5px 0;">
         Leveraging gaussian splatting for digital twin capture on construction sites, this project aims to simulate realistic construction environments and record the construction process.
       </p>
@@ -110,11 +110,11 @@ redirect_from:
     <!-- Right Column: Short Description and Links -->
     <div class="teaser-description" style="flex: 1; padding-left: 20px;">
       <h3 style="margin-top: 0;">Zelda: Catch the Koroks</h3>
-      <p class="credit" style="margin: 5px 0; font-size: 0.9em; color: #666;">
+      <!-- <p class="credit" style="margin: 5px 0; font-size: 0.9em; color: #666;">
         <strong>Credit:</strong> Evan Zhang,
         Ethan Lin,
         Justin Tien-Smith
-      </p>
+      </p> -->
       <p style="margin: 5px 0;">
         This project uses rasterization to render a mini game that is inspired by Zelda. Customized shaders are created to simulate grass, trees, terrain, etc.
       </p>
@@ -133,10 +133,10 @@ redirect_from:
     <!-- Right Column: Short Description and Links -->
     <div class="teaser-description" style="flex: 1; padding-left: 20px;">
       <h3 style="margin-top: 0;">Apple Is All You Need</h3>
-      <p class="credit" style="margin: 5px 0; font-size: 0.9em; color: #666;">
+      <!-- <p class="credit" style="margin: 5px 0; font-size: 0.9em; color: #666;">
         <strong>Credit:</strong> Evan Zhang,
         Taylor Wang
-      </p>
+      </p> -->
       <p style="margin: 5px 0;">
         This project implements a raytracer which renders a fun scene that only contains apples. Various graphics techniques are used including constructive solid geometry, fresnel refraction, defocus blur, etc.
       </p>
