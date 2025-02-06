@@ -134,10 +134,10 @@ redirect_from:
       <strong>2024:</strong> TA for CS 4820: Introduction to Analysis of Algorithms | Fall 2024
     </li>
     <li style="margin-bottom: 10px;">
-      <strong>2024:</strong> TA for CS 1112: Introduction to Computing: An Engineering and Science Perspective | Spring 2024
+      <strong>2024:</strong> Consultant for CS 1112: Introduction to Computing: An Engineering and Science Perspective | Spring 2024
     </li>
     <li style="margin-bottom: 10px;">
-      <strong>2023:</strong> TA for CS 1112: Introduction to Computing: An Engineering and Science Perspective | Fall 2023
+      <strong>2023:</strong> Consultant for CS 1112: Introduction to Computing: An Engineering and Science Perspective | Fall 2023
     </li>
   </ul>
 </div>
