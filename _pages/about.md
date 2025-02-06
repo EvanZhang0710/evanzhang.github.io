@@ -138,7 +138,7 @@ redirect_from:
         Taylor Wang
       </p> -->
       <p style="margin: 5px 0;">
-        This project implements a raytracer which renders a fun scene that only contains apples. Various graphics techniques are used including constructive solid geometry, fresnel refraction, defocus blur, etc.
+        This project implements a raytracer that renders a scene exclusively composed of apples. Various graphics techniques are used including constructive solid geometry, Fresnel refraction, defocus blur, etc.
       </p>
       <!-- Links displayed side by side -->
       <a href="files/apple.pdf" target="_blank" rel="noopener noreferrer" style="color: #007acc; text-decoration: none; font-weight: bold; margin-right: 15px;">[Project Paper]</a>
