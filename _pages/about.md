@@ -60,7 +60,14 @@ redirect_from:
     <!-- Right Column: Short Description and Links -->
     <div class="teaser-description" style="flex: 1; padding-left: 20px;">
       <h3 style="margin-top: 0;">Compositional Splatting for Construction Sites</h3>
-      <p style="margin: 10px 0;">
+      <p class="credit" style="margin: 5px 0; font-size: 0.9em; color: #666;">
+        <strong>Credit:</strong> Evan Zhang,
+        <a href="https://jolfss.github.io/" target="_blank" rel="noopener noreferrer" style="color: blue; text-decoration: underline;">Sean Brynjólfsson</a>,
+        Dyllan Hofflich,
+        Natalie Leung,
+        Danish Qureshi
+      </p>
+      <p style="margin: 5px 0;">
         Leveraging gaussian splatting for digital twin capture on construction sites, this project aims to simulate realistic construction environments and record the construction process.
       </p>
       <!-- Links displayed side by side -->
@@ -78,6 +85,11 @@ redirect_from:
     <!-- Right Column: Short Description and Links -->
     <div class="teaser-description" style="flex: 1; padding-left: 20px;">
       <h3 style="margin-top: 0;">Zelda: Catch the Koroks</h3>
+      <p class="credit" style="margin: 5px 0; font-size: 0.9em; color: #666;">
+        <strong>Credit:</strong> Evan Zhang,
+        Ethan Lin,
+        Justin Tien-Smith
+      </p>
       <p style="margin: 10px 0;">
         This project uses rasterization to render a mini game that is inspired by Zelda. Customized shaders are created to simulate grass, trees, terrain, etc.
       </p>
@@ -96,6 +108,10 @@ redirect_from:
     <!-- Right Column: Short Description and Links -->
     <div class="teaser-description" style="flex: 1; padding-left: 20px;">
       <h3 style="margin-top: 0;">Apple Is All You Need</h3>
+      <p class="credit" style="margin: 5px 0; font-size: 0.9em; color: #666;">
+        <strong>Credit:</strong> Evan Zhang,
+        Taylor Wang
+      </p>
       <p style="margin: 10px 0;">
         This project implements a raytracer that renders a fun scene that only contains apples. Various graphics techniques are used including constructive solid geometry, fresnel refraction, defocus blur, etc.
       </p>
