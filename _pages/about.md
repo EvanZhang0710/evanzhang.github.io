@@ -20,8 +20,8 @@ redirect_from:
   <p>🎾 I'm a big gym guy, an eight ball player, and a badminton enthusiast.</p>
 </div>
 
-<!-- Projects Section -->
-<div class="projects-section">
+<!-- Projects Section with ID for navigation -->
+<div id="projects" class="projects-section">
   <!-- Section Heading: Using similar style as Teaching Experiences -->
   <h2 style="font-size: 2em; margin-bottom: 20px;">💻 Projects</h2>
   
@@ -72,7 +72,6 @@ redirect_from:
       </p>
       <!-- Links displayed side by side -->
       <a href="files/SplatConstruction.pdf" target="_blank" rel="noopener noreferrer" style="color: #007acc; text-decoration: none; font-weight: bold; margin-right: 15px;">[Project Paper]</a>
-      <!-- <a href="/projects/gaussian_seg.html" style="color: #007acc; text-decoration: none; font-weight: bold;">[Detail]</a> -->
     </div>
   </div>
 
@@ -117,13 +116,12 @@ redirect_from:
       </p>
       <!-- Links displayed side by side -->
       <a href="files/apple.pdf" target="_blank" rel="noopener noreferrer" style="color: #007acc; text-decoration: none; font-weight: bold; margin-right: 15px;">[Project Paper]</a>
-      <!-- <a href="/projects/gaussian_seg.html" style="color: #007acc; text-decoration: none; font-weight: bold;">[Detail]</a> -->
     </div>
   </div>
 </div>
 
-<!-- Teaching Experiences Section -->
-<div class="teaching-experiences" style="margin: 40px 0;">
+<!-- Teaching Experiences Section with ID for navigation -->
+<div id="teaching" class="teaching-experiences" style="margin: 40px 0;">
   <!-- Section Heading -->
   <h2 style="font-size: 2em; margin-bottom: 20px;">🎓 Teaching Experiences</h2>
   
