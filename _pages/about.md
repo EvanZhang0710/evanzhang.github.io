@@ -94,7 +94,7 @@ redirect_from:
         Danish Qureshi
       </p> -->
       <p style="margin: 5px 0;">
-        Leveraging gaussian splatting for digital twin capture on construction sites, this project aims to simulate realistic construction environments and record the construction process.
+        Leveraging gaussian splats for digital twin capture on construction sites, this project aims to simulate realistic construction environments and record the construction processes.
       </p>
       <!-- Links displayed side by side -->
       <a href="files/SplatConstruction.pdf" target="_blank" rel="noopener noreferrer" style="color: #007acc; text-decoration: none; font-weight: bold; margin-right: 15px;">[Project Paper]</a>
