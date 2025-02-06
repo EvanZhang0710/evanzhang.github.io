@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <style>
+    /* Base styling for the page with increased font sizes */
+    body {
+      font-family: Arial, sans-serif;
+      font-size: 18px;  /* Increased base font size */
+      margin: 20px;
+      background-color: #fff;
+      color: #333;
+      line-height: 1.8;
+    }
+    /* Container for the entire project item */
+    .project-container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      border: 1px solid #e0e0e0;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    /* Header section for title and credits */
+    .project-header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .project-header h1 {
+      margin: 0 0 10px;
+      font-size: 2.5em;  /* Larger title size */
+    }
+    .project-header p {
+      margin: 0;
+      font-style: italic;
+      color: #666;
+    }
+    /* Two-column container for images and description */
+    .project-content {
+      display: flex;
+      gap: 20px;
+      align-items: flex-start;  /* Align the top of both columns */
+    }
+    /* Left column: image gallery */
+    .project-images {
+      flex: 0 0 300px; /* Fixed width for the image column */
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .project-images img {
+      width: 100%;
+      height: auto;
+      border: 1px solid #ccc;
+    }
+    /* Right column: description */
+    .project-description {
+      flex: 1;
+    }
+    .project-description a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    .project-description a:hover {
+      text-decoration: underline;
+    }
+    /* Remove top margin from the first paragraph in the description */
+    .project-description p:first-child {
+      margin-top: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="project-container">
+    <!-- Header: Title and Credits -->
+    <header class="project-header">
+      <h1>Auto-Riggable Gaussian Characters</h1>
+      <strong>Credits:</strong> Evan Zhang, <a href="https://jolfss.github.io/" target="_blank" rel="noopener noreferrer">Sean Brynjólfsson</a>, Justin Tien-Smith
+    </header>
+
+    <!-- Two-Column Layout -->
+    <div class="project-content">
+      <!-- Left Column: Image Gallery -->
+      <section class="project-images">
+        <img src="/images/scan.gif" alt="GRIG1 Animation">
+        <img src="/images/ARSplat.gif" alt="GRIG2 Animation">
+      </section>
+
+      <!-- Right Column: Detailed Description -->
+      <section class="project-description">
+        <p>
+          Recently, techniques for solving gaussian splats of dynamic scenes 
+          (<a href="https://github.com/JonathonLuiten/Dynamic3DGaussians" target="_blank"><em>Dynamic3DGaussians</em></a>, 2024) have found success in using local rigidity constraints to enforce spatial and temporal consistency.
+        </p>
+        <p>
+          We use this detailed representation and decompose it into the rigid parts and joints which describe their movement. This procedure makes no assumptions about the anatomy of the dynamic entities within the scene and therefore should work equally well for all people, animals, or machines—anything that moves about a discrete set of joints. We're currently implementing the joint solver after obtaining promising results for our clustering algorithm to find the bones.
+        </p>
+        <p>
+          Our final deliverable will be an animation-ready gaussian rig and a portable format for it. Clustering also significantly downsizes the storage requirements because local rigidity means gaussians are predictive of their neighbors—no need to track all of them. We are also developing more visualizations to better understand the limitations of the representation. In doing so, we have observed some new failure modes of the original method, such as how some regions gradually creep into neighboring areas over time.
+        </p>
+      </section>
+    </div>
+  </div>
+</body>
+</html>
