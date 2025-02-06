@@ -17,7 +17,7 @@ redirect_from:
   <p>🔬 I am primarily interested in computer vision and graphics. Currently my focus is in 3D time-lapse on mobile platforms. I'm also a member of Cornell University Artificial Intelligence 
     (<a href="https://cuai.github.io/" style="color: #007acc; text-decoration: none; font-weight: bold;">CUAI</a>).
   </p>
-  <p>🎾 I'm a big gym guy, an eight ball player, and a badminton enthusiast.</p>
+  <p>🎾 In my free time I'm a big gym guy, an eight ball player, and a badminton enthusiast.</p>
 </div>
 
 <!-- Projects Section with ID for navigation -->
