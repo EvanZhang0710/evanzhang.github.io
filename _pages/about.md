@@ -34,7 +34,7 @@ redirect_from:
     <!-- Right Column: Short Description and Links -->
     <div class="teaser-description" style="flex: 1; padding-left: 20px;">
       <!-- Title -->
-      <h3 style="margin-top: 0;">Mobile AR for Time-Lapse Tour</h3>
+      <h3 style="margin-top: 0;">ARSplat: Mobile AR for Time-Lapse Tour (WIP)</h3>
       <!-- Credit line: only the label "Credit:" is bolded -->
       <!-- <p class="credit" style="margin: 5px 0; font-size: 0.9em; color: #666;">
         <strong>Credit:</strong> Evan Zhang,

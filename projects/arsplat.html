@@ -75,8 +75,8 @@
   <div class="project-container">
     <!-- Header: Title and Credits -->
     <header class="project-header">
-      <h1>Auto-Riggable Gaussian Characters</h1>
-      <strong>Credits:</strong> Evan Zhang, <a href="https://jolfss.github.io/" target="_blank" rel="noopener noreferrer">Sean Brynjólfsson</a>, Justin Tien-Smith
+      <h1>ARSplat: Mobile AR for Time-Lapse Tour</h1>
+      <strong>Credits:</strong> Evan Zhang, <a href="https://www.trannhan.com/" target="_blank" rel="noopener noreferrer">Nhan Tran</a>, <a href="https://abedavis.com/" target="_blank" rel="noopener noreferrer">Abe Davis</a>
     </header>
 
     <!-- Two-Column Layout -->
@@ -90,14 +90,15 @@
       <!-- Right Column: Detailed Description -->
       <section class="project-description">
         <p>
-          Recently, techniques for solving gaussian splats of dynamic scenes 
-          (<a href="https://github.com/JonathonLuiten/Dynamic3DGaussians" target="_blank"><em>Dynamic3DGaussians</em></a>, 2024) have found success in using local rigidity constraints to enforce spatial and temporal consistency.
+            Effective monitoring of structural changes over time is critical across various industries, from construction to infrastructure management. Time-lapse visualization can capture gradual changes and enable the early detection of potential issues. In this context, we introduce ARSplat, a mobile augmented reality (AR) system designed to facilitate such monitoring.
+        <p>
+            During each scanning session, the application acquires a 3D point cloud of the environment using the iPhone’s LiDAR sensor. Simultaneously, it records RGB-D images and camera poses to support future research, particularly for training 3D Gaussian Splatting (3DGS). Additionally, users can manually serialize an ARWorldMap—an ARKit feature that preserves the spatial context of the device’s movement.
         </p>
         <p>
-          We use this detailed representation and decompose it into the rigid parts and joints which describe their movement. This procedure makes no assumptions about the anatomy of the dynamic entities within the scene and therefore should work equally well for all people, animals, or machines—anything that moves about a discrete set of joints. We're currently implementing the joint solver after obtaining promising results for our clustering algorithm to find the bones.
+            Prior to initiating a new scan, users may load a previously saved ARWorldMap, aligning the new scan’s coordinate system with that of the earlier session. This approach ensures that all 3D point clouds are registered within a consistent coordinate framework. Users can then select multiple saved point clouds and visualize the time-lapse by interacting with a slider bar.
         </p>
         <p>
-          Our final deliverable will be an animation-ready gaussian rig and a portable format for it. Clustering also significantly downsizes the storage requirements because local rigidity means gaussians are predictive of their neighbors—no need to track all of them. We are also developing more visualizations to better understand the limitations of the representation. In doing so, we have observed some new failure modes of the original method, such as how some regions gradually creep into neighboring areas over time.
+            We recognize that point cloud representations may not capture every detail of dynamic environments, especially in complex settings like construction sites. Consequently, we are exploring the extension of this project to train 3DGS using the additional data collected. Notably, works such as MetalSplatter have demonstrated the capability to render 3DGS on Apple platforms.
         </p>
       </section>
     </div>
