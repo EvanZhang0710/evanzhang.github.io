@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "👋Hello there, I'm Evan!"
+title: "👋👋👋"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- Page Title Styled Consistently with Other Headers -->
-<h2 style="font-size: 2em; margin: 0 0 20px 0;">👋Hello there, I'm Evan!</h2>
+<h2 style="font-size: 2em; margin: 0 0 20px 0;">Hello there, I'm Evan!</h2>
 
 <div class="about-section" style="margin: 20px 0; font-size: 1.2em; line-height: 1.4;">
   <p>🏫 I'm currently an undergraduate student at 
