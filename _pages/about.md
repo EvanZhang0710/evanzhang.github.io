@@ -42,7 +42,7 @@ redirect_from:
         Justin Tien-Smith
       </p>
       <!-- Description -->
-      <p style="margin: 10px 0;">
+      <p style="margin: 5px 0;">
         Leveraging dynamic gaussian splats with local rigidity constraints, this project decomposes moving subjects into animation-ready rigs.
       </p>
       <!-- Links displayed side by side -->
