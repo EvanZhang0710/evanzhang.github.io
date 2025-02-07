@@ -46,7 +46,7 @@ redirect_from:
         Leveraging iPhone's LiDAR camera, this project builds an App that captures and aligns multiple scenes of a changing environment, then visualizes the time-lapse.
       </p>
       <!-- Links displayed side by side -->
-      <a href="https://github.com/megatran/ARSplat/tree/evan/ARSplat" target="_blank" rel="noopener noreferrer" style="color: #007acc; text-decoration: none; font-weight: bold; margin-right: 15px;">[GitHub]</a>
+      <!-- <a href="https://github.com/megatran/ARSplat/tree/evan/ARSplat" target="_blank" rel="noopener noreferrer" style="color: #007acc; text-decoration: none; font-weight: bold; margin-right: 15px;">[GitHub]</a> -->
       <a href="/projects/arsplat.html" style="color: #007acc; text-decoration: none; font-weight: bold;">[Detail]</a>
     </div>
   </div>
